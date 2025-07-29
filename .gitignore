@@ -1,0 +1,3 @@
+data/*.pkl
+data/*.db
+data/*.csv
